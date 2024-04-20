@@ -1,6 +1,6 @@
 +++
 title = '友链'
-draft = true
+draft = false
 +++
 [Mekdull's Blog](https://mekdull.netlify.app)
 
