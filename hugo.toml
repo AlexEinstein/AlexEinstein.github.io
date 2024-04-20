@@ -35,11 +35,11 @@ theme = 'hugo-PaperMod-master'
 
   [[params.profileMode.buttons]]
    name = "Home"
-   url = "/posts/"
+   url = "/posts"
 
   [[params.profileMode.buttons]]
    name = "友链"
-   url = "/posts/friend"
+   url = "/friend"
 
 [[params.socialIcons]]
  name = "github"
