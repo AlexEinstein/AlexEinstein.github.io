@@ -39,7 +39,7 @@ theme = 'hugo-PaperMod-master'
 
   [[params.profileMode.buttons]]
    name = "友链"
-   url = "/posts/friend/"
+   url = "/posts/friend"
 
 [[params.socialIcons]]
  name = "github"
