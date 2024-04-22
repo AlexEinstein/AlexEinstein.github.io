@@ -36,10 +36,10 @@ theme = 'hugo-PaperMod-master'
   [[params.profileMode.buttons]]
    name = "序言"
    url = "/start"
-   
+  [[params.profileMode.buttons]]
    name = "文章"
    url = "/posts"
-   
+  [[params.profileMode.buttons]]
    name = "友链"
    url = "/friend"
 
