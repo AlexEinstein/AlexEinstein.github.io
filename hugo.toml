@@ -46,5 +46,11 @@ theme = 'hugo-PaperMod-master'
  url = "https://github.com"
 
 [[params.socialIcons]]
- name = "xoj"
- url = "https://xoj.red"
+ name = "WeChat"
+ url = ""
+[[params.socialIcons]]
+ name = "QQ"
+ url = ""
+[[params.socialIcons]]
+ name = "email"
+ url = "mailto:AlexEinstein080103@outlook.com"
