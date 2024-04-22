@@ -43,7 +43,7 @@ theme = 'hugo-PaperMod-master'
 
 [[params.socialIcons]]
  name = "github"
- url = "https://github.com"
+ url = "https://github.com/AlexEinstein"
 
 [[params.socialIcons]]
  name = "WeChat"
