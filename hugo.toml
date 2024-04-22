@@ -34,7 +34,7 @@ theme = 'hugo-PaperMod-master'
   imageHeight = 120
 
   [[params.profileMode.buttons]]
-   name = "Home"
+   name = "文章"
    url = "/posts"
 
   [[params.profileMode.buttons]]
