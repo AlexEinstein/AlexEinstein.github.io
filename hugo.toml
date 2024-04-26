@@ -49,7 +49,7 @@ theme = 'hugo-PaperMod-master'
 
 [[params.socialIcons]]
  name = "WeChat"
- url = "\images\wechat.jpg"
+ url = "/images/wechat.jpg"
 [[params.socialIcons]]
  name = "QQ"
  url = ""
