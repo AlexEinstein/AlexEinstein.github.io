@@ -52,7 +52,7 @@ theme = 'hugo-PaperMod-master'
  url = "/images/wechat.jpg"
 [[params.socialIcons]]
  name = "QQ"
- url = ""
+ url = "/images/qq.jpg"
 [[params.socialIcons]]
  name = "email"
  url = "mailto:AlexEinstein080103@outlook.com"
